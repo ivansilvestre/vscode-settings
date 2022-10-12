@@ -1,0 +1,25 @@
+{
+  "workbench.colorTheme": "Material Theme Darker",
+  "workbench.startupEditor": "none",
+  "telemetry.telemetryLevel": "off",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint" : true,
+    "source.organizeImports": true
+  },
+  "explorer.confirmDelete": false,
+  "extensions.ignoreRecommendations": true,
+  "breadcrumbs.enabled": false,
+  "javascript.suggest.autoImports" : true,
+  "typescript.suggest.autoImports" : true,
+  "javascript.updateImportsOnFileMove.enabled" : "always",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
