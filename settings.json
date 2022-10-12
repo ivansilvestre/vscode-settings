@@ -1,16 +1,13 @@
 {
-  "workbench.colorTheme": "Material Theme Darker",
   "workbench.startupEditor": "none",
   "telemetry.telemetryLevel": "off",
   "editor.formatOnSave": true,
   "editor.fontSize": 16,
-  "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint" : true,
     "source.organizeImports": true
   },
-  "explorer.confirmDelete": false,
   "extensions.ignoreRecommendations": true,
   "breadcrumbs.enabled": false,
   "javascript.suggest.autoImports" : true,
