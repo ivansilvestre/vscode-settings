@@ -3,20 +3,18 @@
   "telemetry.telemetryLevel": "off",
   "editor.formatOnSave": true,
   "editor.fontSize": 16,
-  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.mouseWheelZoom": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint" : true,
-    "source.organizeImports": true
+    "source.fixAll": true,
+    "source.sortImports": true
   },
   "extensions.ignoreRecommendations": true,
   "breadcrumbs.enabled": false,
-  "javascript.suggest.autoImports" : true,
-  "typescript.suggest.autoImports" : true,
-  "javascript.updateImportsOnFileMove.enabled" : "always",
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.autoImports": true,
+  "prettier.endOfLine": "auto",
+  "workbench.iconTheme": "eq-material-theme-icons-light",
+  "workbench.colorTheme": "Andromeda Bordered"
 }
