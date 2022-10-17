@@ -16,5 +16,4 @@
   "typescript.suggest.autoImports": true,
   "prettier.endOfLine": "auto",
   "workbench.iconTheme": "eq-material-theme-icons-light",
-  "workbench.colorTheme": "Andromeda Bordered"
 }
