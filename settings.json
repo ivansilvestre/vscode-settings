@@ -5,7 +5,6 @@
   "editor.fontSize": 16,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.mouseWheelZoom": true,
-  "editor.stickyScroll.enabled": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
     "source.sortImports": true
