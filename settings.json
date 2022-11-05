@@ -15,5 +15,7 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.suggest.autoImports": true,
   "prettier.endOfLine": "auto",
-  "workbench.colorTheme": "Night Wolf (gray)"
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "workbench.iconTheme": "material-icon-theme"
 }
+
