@@ -1,6 +1,6 @@
 {
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Default Dark+ Experimental",
+  "workbench.iconTheme": "eq-material-theme-icons-light",
   "editor.formatOnSave": true,
   "editor.fontSize": 16,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
