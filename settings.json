@@ -1,21 +1,23 @@
 {
   "workbench.startupEditor": "none",
-  "telemetry.telemetryLevel": "off",
+  "workbench.colorTheme": "Default Dark+ Experimental",
   "editor.formatOnSave": true,
   "editor.fontSize": 16,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.mouseWheelZoom": true,
+  "editor.minimap.enabled": false,
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
     "source.sortImports": true
   },
+  "telemetry.telemetryLevel": "off",
   "extensions.ignoreRecommendations": true,
+  "explorer.confirmDelete": false,
   "breadcrumbs.enabled": false,
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.suggest.autoImports": true,
-  "prettier.endOfLine": "auto",
-  "workbench.colorTheme": "Material Theme Darker High Contrast",
-  "workbench.iconTheme": "material-icon-theme"
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "prettier.endOfLine": "auto"
 }
 
