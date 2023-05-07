@@ -1,9 +1,11 @@
 {
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "eq-material-theme-icons-light",
   "editor.formatOnSave": true,
   "editor.fontSize": 16,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
   "editor.mouseWheelZoom": true,
   "editor.minimap.enabled": false,
   "editor.codeActionsOnSave": {
@@ -20,4 +22,3 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "prettier.endOfLine": "auto"
 }
-
