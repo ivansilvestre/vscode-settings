@@ -20,5 +20,7 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.suggest.autoImports": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "prettier.endOfLine": "auto"
+  "prettier.endOfLine": "auto",
+  "git.autofetch": true,
+  "terminal.integrated.defaultProfile.linux": "bash"
 }
