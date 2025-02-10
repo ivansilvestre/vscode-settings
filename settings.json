@@ -1,25 +1,24 @@
 {
-  "workbench.startupEditor": "none",
-  "editor.formatOnSave": true,
-  "editor.fontSize": 16,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
-  },
-  "editor.mouseWheelZoom": true,
-  "editor.minimap.enabled": false,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true,
-    "source.sortImports": true
-  },
-  "telemetry.telemetryLevel": "off",
-  "extensions.ignoreRecommendations": true,
-  "explorer.confirmDelete": false,
-  "breadcrumbs.enabled": false,
-  "javascript.suggest.autoImports": true,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.suggest.autoImports": true,
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "git.autofetch": true,
-  "terminal.integrated.defaultProfile.linux": "bash"
-}
+    "workbench.startupEditor": "none",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.minimap.enabled": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.sortImports": true
+    },
+    "telemetry.telemetryLevel": "off",
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDelete": false,
+    "breadcrumbs.enabled": false,
+    "javascript.suggest.autoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.suggest.autoImports": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.autofetch": true,
+    "terminal.integrated.defaultProfile.linux": "bash"
+  }
