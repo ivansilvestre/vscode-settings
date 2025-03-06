@@ -8,8 +8,8 @@
     "editor.mouseWheelZoom": true,
     "editor.minimap.enabled": false,
     "editor.codeActionsOnSave": {
-      "source.fixAll": true,
-      "source.sortImports": true
+      "source.fixAll": "always",
+      "source.sortImports": "always"
     },
     "telemetry.telemetryLevel": "off",
     "extensions.ignoreRecommendations": true,
